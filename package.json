@@ -1,0 +1,28 @@
+{
+  "name": "assignment-2-authentication-and-real-time-mamendez9",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SknQUJ55) # Assignment 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UTEP-Agile-SP25/assignment-2-authentication-and-real-time-mamendez9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/UTEP-Agile-SP25/assignment-2-authentication-and-real-time-mamendez9/issues"
+  },
+  "homepage": "https://github.com/UTEP-Agile-SP25/assignment-2-authentication-and-real-time-mamendez9#readme",
+  "devDependencies": {
+    "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "firebase": "^11.4.0"
+  }
+}
